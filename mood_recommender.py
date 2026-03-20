@@ -3,7 +3,7 @@ import webbrowser
 import tkinter as tk
 from tkinter import messagebox
 
-# Mood-to-song mapping (English + Telugu)
+# Mood-to-song mapping 
 songs = {
     "happy": [
         ("Happy", "Pharrell Williams", "https://www.youtube.com/watch?v=ZbZSe6N_BXs"),
